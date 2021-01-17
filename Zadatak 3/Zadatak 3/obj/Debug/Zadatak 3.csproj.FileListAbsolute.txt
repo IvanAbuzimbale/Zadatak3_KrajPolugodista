@@ -1,0 +1,6 @@
+C:\Users\ivanm\source\repos\Zadatak 3\Zadatak 3\bin\Debug\Zadatak 3.exe.config
+C:\Users\ivanm\source\repos\Zadatak 3\Zadatak 3\bin\Debug\Zadatak 3.exe
+C:\Users\ivanm\source\repos\Zadatak 3\Zadatak 3\bin\Debug\Zadatak 3.pdb
+C:\Users\ivanm\source\repos\Zadatak 3\Zadatak 3\obj\Debug\Zadatak 3.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Zadatak 3\Zadatak 3\obj\Debug\Zadatak 3.exe
+C:\Users\ivanm\source\repos\Zadatak 3\Zadatak 3\obj\Debug\Zadatak 3.pdb
